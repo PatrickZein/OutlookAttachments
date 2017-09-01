@@ -1,0 +1,13 @@
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\bin\Debug\WindowsApplication1.exe.config
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\bin\Debug\WindowsApplication1.exe
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\bin\Debug\WindowsApplication1.pdb
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\bin\Debug\WindowsApplication1.xml
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\OutlookAttachmentsVB.vbprojResolveAssemblyReference.cache
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\OutlookAttachmentsVB.vbproj.ResolveComReference.cache
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\OutlookAttachmentsVB.vbproj.GenerateResource.Cache
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\OutlookAttachmentsVB.vbproj.CoreCompileInputs.cache
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\WindowsApplication1.exe
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\WindowsApplication1.xml
+C:\Users\patri\Documents\Visual Studio 2015\DemoOutlookAttachment\OutlookAttachmentsVB\obj\Debug\WindowsApplication1.pdb
